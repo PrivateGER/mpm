@@ -1,0 +1,29 @@
+{
+  "packages": {
+    "example": {
+      "title": "",
+      "artist": "",
+      "year": 1111,
+      "genre": "",
+      "ncs": false
+    },
+    "fade": {
+      "title": "Alan Walker - Fade",
+      "artist": "Alan Walker",
+      "year": 2014,
+      "genre": "electronic",
+      "ncs": true
+    },
+    "spectre": {
+      "title": "Alan Walker - Spectre",
+      "artist": "Alan Walker",
+      "year": 2015,
+      "genre": "electronic",
+      "ncs": true
+    }
+  },
+  "server": {
+    "name": "Sample mpm server",
+    "owned_by": "PrivateGER"
+  }
+}
